@@ -37,6 +37,7 @@ Updates will include changelogs so if you are using a current image and it's upd
 | * clothing bags watches | All clothing items and assorted personal props |
 | * collector | All Cigarette Cards **NOTE:** In Progress |
 | * consumable | Everything you can eat, drink, smoke and consume |
+| * drugs | Assortment of drug images |
 | * documents | Assorted books, papers and document items |
 | * fishing and trapping | fishbaits and traps for trapping game |
 | * furniture | 600-700+ This section will be re-visited in the future, possible object model names time depending |
