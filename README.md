@@ -12,9 +12,8 @@ This is a brief tutorial on how to use the libraries with your server
 ### **PLEASE NOTE:**
 Updates will include changelogs so if you are using a current image and it's updated in the library by name - this won't affect your scrips as long as you are not pulling ***directly*** from the main library folder on your computer. Please don't do that.
 
-* If there is an image update, you can decide if you want to replace the old image or not by dragging a copy into your server image folder or script location and renaming it.
+* If you like the library and would like to support it, please consider making a donation to my [ko-fi](https://ko-fi.com/theiconlibraryproject)
 
-* If you have any issues please visit my main github for a link to support.
 <br/>
 <br/>
 
