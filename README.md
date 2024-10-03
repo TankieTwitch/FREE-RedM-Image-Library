@@ -14,7 +14,7 @@ Updates will include changelogs so if you are using a current image and it's upd
 
 * If there is an image update, you can decide if you want to replace the old image or not by dragging a copy into your server image folder or script location and renaming it.
 
-* If you have any issues please visti my main github for a link to support.
+* If you have any issues please visit my main github for a link to support.
 <br/>
 <br/>
 
