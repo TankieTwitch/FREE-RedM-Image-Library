@@ -12,9 +12,8 @@ This is a brief tutorial on how to use the libraries with your server
 ### **PLEASE NOTE:**
 Updates will include changelogs so if you are using a current image and it's updated in the library by name - this won't affect your scrips as long as you are not pulling ***directly*** from the main library folder on your computer. Please don't do that.
 
-* If there is an image update, you can decide if you want to replace the old image or not by dragging a copy into your server image folder or script location and renaming it.
+* If you like the library and would like to support it, please consider making a donation to my [ko-fi](https://ko-fi.com/theiconlibraryproject)
 
-* The Icon Library Project's [**Discord**](https://discord.gg/7kMt8dFzka) Updates Channel will list all the files added to the libraries and changelog if there are any.
 <br/>
 <br/>
 
@@ -37,6 +36,7 @@ Updates will include changelogs so if you are using a current image and it's upd
 | * clothing bags watches | All clothing items and assorted personal props |
 | * collector | All Cigarette Cards **NOTE:** In Progress |
 | * consumable | Everything you can eat, drink, smoke and consume |
+| * drugs | Assortment of drug images |
 | * documents | Assorted books, papers and document items |
 | * fishing and trapping | fishbaits and traps for trapping game |
 | * furniture | 600-700+ This section will be re-visited in the future, possible object model names time depending |
