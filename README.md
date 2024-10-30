@@ -59,7 +59,7 @@ Updates will include changelogs so if you are using a current image and it's upd
 | * provisions | Collections of heirloom items, money, jewelry, arrowheads, eggs, beaks and more |    
 | * resources-animal-skins-pelts-parts | Hearts, Horns, Claws, Animal Parts, Pelts, Skins, Legendary versions of all items |
 | * resources-animal-skins-pelts-parts-generic | Generic versions of  pelts, hearts, and snake skins |
-| * seeds | At last count, 82 varieties of seed packs corresponding to a consumable_herb item or farm product |
+| * seeds | At last count, 92 varieties of seed packs corresponding to a consumable_herb item or farm product |
 | * server bits | menu icons and reward icons |
 | * spooni | icon images for spooni pack items (in progress) |
 | * trinkets-talismans-other-bits | Trinkets, Talismans and images that are uncategorized |
