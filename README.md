@@ -3,6 +3,9 @@
 
 > [!NOTE] 
 > This library will no longer be added to as it has been moved to Tebex. For future updates please visit TILP Discord.
+[Tebex link](https://the-icon-library-project-redm-webshop.tebex.io/)
+
+[Searchable UI](https://theiconlibraryproject.netlify.app/) - You must be a member of the Discord with the RedM Image Library Role to use.
 
 This is a brief tutorial on how to use the libraries with your server. This Library is free to use and is added to frequently. 
 If you would like to use for creating scripts for use with RedM, I would be thankful for a link back to this repository.
